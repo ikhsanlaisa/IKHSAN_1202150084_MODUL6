@@ -3,9 +3,6 @@ package com.example.ikhsanlaisa.ikhsan_1202150084_modul6.fragment;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.Query;
 
-/**
- * Created by Umam on 3/31/2018.
- */
 
 public class RecentPostsFragment extends PostListFragment {
     public RecentPostsFragment(){}

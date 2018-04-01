@@ -2,9 +2,6 @@ package com.example.ikhsanlaisa.ikhsan_1202150084_modul6.model;
 
 import com.google.firebase.database.IgnoreExtraProperties;
 
-/**
- * Created by Umam on 3/30/2018.
- */
 
 @IgnoreExtraProperties
 public class User {

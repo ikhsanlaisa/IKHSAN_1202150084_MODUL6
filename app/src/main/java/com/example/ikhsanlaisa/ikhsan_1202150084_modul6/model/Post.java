@@ -5,10 +5,6 @@ import com.google.firebase.database.Exclude;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * Created by Umam on 3/30/2018.
- */
-
 public class Post {
     public String uid;
 

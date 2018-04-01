@@ -26,9 +26,7 @@ import com.google.firebase.database.MutableData;
 import com.google.firebase.database.Query;
 import com.google.firebase.database.Transaction;
 
-/**
- * A simple {@link Fragment} subclass.
- */
+
 public abstract class PostListFragment extends Fragment {
 
     private static final String TAG = "PostListFragment";
